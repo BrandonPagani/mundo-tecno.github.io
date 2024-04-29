@@ -1,0 +1,13 @@
+.navbar {
+  .container-fluid {
+    .navbar-brand {
+      img {
+        width: 50px;
+      }     
+    }
+    .navbar-collapse {
+        display: flex;
+        justify-content: space-around;
+      }
+  }
+}
